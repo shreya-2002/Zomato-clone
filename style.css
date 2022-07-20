@@ -35,7 +35,7 @@ header{
     list-style: none;
     font-weight: lighter;
     display: flex;
-    margin: - 1.5rem;
+    gap: 1.5rem;
 }
 .head {
     display: flex;
